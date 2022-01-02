@@ -1,4 +1,4 @@
-# Expense Tracker App
+# Exercise Tracker App
 
 <img src="https://res.cloudinary.com/mike88/image/upload/v1641107298/Excercise_Tracker_bdsfer.jpg" title="Excercise Tracker" alt="Exercise tracker" width="40%"/>
 
